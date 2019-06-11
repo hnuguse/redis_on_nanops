@@ -1,0 +1,1 @@
+# Nanoserver 1803 base image / Windows OS version 17134
